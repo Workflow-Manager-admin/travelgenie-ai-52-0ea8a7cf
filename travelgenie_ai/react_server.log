@@ -2,9 +2,9 @@
 > react-kavia@0.1.0 start
 > react-scripts start
 
-(node:11212) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(node:23353) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
 (Use `node --trace-deprecation ...` to show where the warning was created)
-(node:11212) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(node:23353) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
 Starting the development server...
 
 Compiled successfully!
@@ -17,36 +17,4 @@ You can now view react-kavia in the browser.
 Note that the development build is not optimized.
 To create a production build, use npm run build.
 
-webpack compiled successfully
-Compiling...
-Failed to compile.
-
-Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/travelgenie-ai-52-0ea8a7cf/travelgenie_ai/src'
-ERROR in ./src/App.js 5:0-80
-Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/travelgenie-ai-52-0ea8a7cf/travelgenie_ai/src'
-
-ERROR in ./src/pages/HomePage.js 5:0-40
-Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/travelgenie-ai-52-0ea8a7cf/travelgenie_ai/src/pages'
-
-webpack compiled with 2 errors
-Compiling...
-Failed to compile.
-
-Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/travelgenie-ai-52-0ea8a7cf/travelgenie_ai/src'
-LOG from webpack.FileSystemInfo
-<w> Managed item /home/kavia/workspace/code-generation/travelgenie-ai-52-0ea8a7cf/travelgenie_ai/node_modules/react-router-dom isn't a directory or doesn't contain a package.json (see snapshot.managedPaths option)
-+ 13 hidden lines
-
-ERROR in ./src/App.js 5:0-80
-Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/travelgenie-ai-52-0ea8a7cf/travelgenie_ai/src'
-
-ERROR in ./src/pages/HomePage.js 5:0-40
-Module not found: Error: Can't resolve 'react-router-dom' in '/home/kavia/workspace/code-generation/travelgenie-ai-52-0ea8a7cf/travelgenie_ai/src/pages'
-
-webpack compiled with 2 errors
-Compiling...
-Compiled successfully!
-webpack compiled successfully
-Compiling...
-Compiled successfully!
 webpack compiled successfully
